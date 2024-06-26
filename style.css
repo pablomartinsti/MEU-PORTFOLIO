@@ -405,7 +405,7 @@ body {
         z-index: 1;
         width: 70%;
         height: 80%;
-        transform: translateY(-100%);
+        transform: translateY(-150%);
     }
     .header .foto-perfil{
         display: block;
