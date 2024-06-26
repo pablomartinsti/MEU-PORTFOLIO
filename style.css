@@ -413,11 +413,7 @@ body {
     .header .menu{
         flex-direction: column;
     }
-    .header .fecharmenu{
-        width: 150px;
-        height: 50px;
-        
-    }
+   
     .menuphone{
         display: block;
         background-color: black;

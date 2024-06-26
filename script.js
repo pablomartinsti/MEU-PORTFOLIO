@@ -14,7 +14,7 @@ const elements = document.querySelectorAll('.hidden')
 elements.forEach((element) => myObserver.observe(element))
 
 let header = document.querySelector('.header')
-let menu = document.querySelector('#menu')
+
 
 
 function mostraMenu (){
